@@ -1,0 +1,22 @@
+
+    BEFORE YOU RUN THIS FILE, FIRST ADD
+
+->>	extension=php_com_dotnet.dll
+
+ at the end of your 'php.ini' file [ which is inside your xampp folder : xampp/php/php.in ..Open Php.ini file in text editor and paste
+that line at last and save it...Without this the program won't run ]
+
+
+
+
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
+
+
+***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
+
+
+***** FOR MORE PROJECTS :- https://code-projects.org/c/project/ *****
+
+
+
+#THANK YOU FOR DOWNLOADING
